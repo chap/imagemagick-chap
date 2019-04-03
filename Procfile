@@ -1,1 +1,1 @@
-web: ruby app.rb
+web: identify -list resource && ruby app.rb
