@@ -4,6 +4,9 @@
   ],
   "buildpacks": [
     {
+      "url": "https://github.com/chap/heroku-buildpack-imagemagick"
+    },
+    {
       "url": "heroku/ruby"
     }
   ],
